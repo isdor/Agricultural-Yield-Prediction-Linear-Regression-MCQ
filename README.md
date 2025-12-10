@@ -1,6 +1,3 @@
-## README.md Content
-
-```markdown
 # Agricultural Yield Prediction: Regression MCQ Analysis
 
 This Google Colab notebook delves into various regression concepts and techniques applied to an agricultural dataset for yield prediction. It serves as a comprehensive multiple-choice exercise designed to enhance understanding and proficiency in regression analysis.
